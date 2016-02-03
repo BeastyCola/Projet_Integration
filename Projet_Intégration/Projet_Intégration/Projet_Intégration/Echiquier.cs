@@ -50,8 +50,14 @@ namespace Projet_Intégration
             base.Update(gameTime);
         }
 
-        public void CréerCases();
+        public void CréerCases()
+        {
+
+        }
         
-        public void ChangerStyle();
+        public void ChangerStyle()
+        {
+
+        }
     }
 }

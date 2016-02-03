@@ -51,6 +51,9 @@ namespace Projet_Intégration
 
             base.Update(gameTime);
         }
-        public void ModifierPropriétaire(string nouvellePièce);
+        public void ModifierPropriétaire(string nouvellePièce)
+        {
+
+        }
     }
 }
