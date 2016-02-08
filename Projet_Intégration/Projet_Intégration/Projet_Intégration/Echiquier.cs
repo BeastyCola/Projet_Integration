@@ -22,6 +22,7 @@ namespace Projet_Intégration
         Vector3 Origine { get; set; }
         List<string> Styles { get; set; }
         List<Cases> Cases { get; set; }
+        
         public Echiquier(Game game)
             : base(game)
         {
