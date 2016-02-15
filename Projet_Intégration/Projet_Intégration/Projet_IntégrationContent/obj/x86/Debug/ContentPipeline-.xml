@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\201471821\Documents\GitHub\Projet_Integration\Projet_Intégration\Projet_Intégration\Projet_Intégration\bin\x86\Debug\Content\Textures\chess.xnb</Output>
-      <Time>2016-02-03T09:24:10.7346631-05:00</Time>
+      <Time>2016-02-15T08:12:33.4315271-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -49,7 +49,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2016-01-11T11:56:59.386576-05:00</Value>
+        <Value>2016-01-12T13:08:42.8873439-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

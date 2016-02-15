@@ -9,13 +9,25 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
-namespace Projet_Intégration
+namespace AtelierXNA
 {
     /// <summary>
     /// This is the main type for your game
     /// </summary>
     public class Jeu : Microsoft.Xna.Framework.Game
     {
+        const float INTERVALLE_CALCUL_FPS = 1f;
+        const float INTERVALLE_MAJ_STANDARD = 1f / 60f;
+        GraphicsDeviceManager PériphériqueGraphique { get; set; }
+        SpriteBatch GestionSprites { get; set; }
+
+        RessourcesManager<SpriteFont> GestionnaireDeFonts { get; set; }
+        RessourcesManager<Texture2D> GestionnaireDeTextures { get; set; }
+        RessourcesManager<Model> GestionnaireDeModèles { get; set; }
+        RessourcesManager<Effect> GestionnaireDeShaders { get; set; }
+        Caméra CaméraJeu { get; set; }
+        
+
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 

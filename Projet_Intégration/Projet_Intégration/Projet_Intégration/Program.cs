@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace Projet_Intégration
+namespace AtelierXNA
 {
 #if WINDOWS || XBOX
     static class Program

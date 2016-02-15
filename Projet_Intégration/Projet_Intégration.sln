@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet_Intégration", "Projet_Intégration\Projet_Intégration\Projet_Intégration.csproj", "{340F5FFA-7DEC-4CF5-A2B1-585AA84618F1}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Projet_IntégrationContent", "Projet_Intégration\Projet_IntégrationContent\Projet_IntégrationContent.contentproj", "{DF341C98-77B7-48D3-89A2-2262B0587BCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet_IntégrationContent", "Projet_Intégration\Projet_IntégrationContent\Projet_IntégrationContent.contentproj", "{DF341C98-77B7-48D3-89A2-2262B0587BCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

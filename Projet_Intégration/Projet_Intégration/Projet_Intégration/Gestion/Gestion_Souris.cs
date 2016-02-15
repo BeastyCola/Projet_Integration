@@ -15,9 +15,9 @@ namespace AtelierXNA
     /// <summary>
     /// This is a game component that implements IUpdateable.
     /// </summary>
-    public class Gestion_Deplacement : Microsoft.Xna.Framework.GameComponent
+    public class Gestion_Souris : Microsoft.Xna.Framework.GameComponent
     {
-        public Gestion_Deplacement(Game game)
+        public Gestion_Souris(Game game)
             : base(game)
         {
             // TODO: Construct any child components here
