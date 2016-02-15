@@ -28,12 +28,9 @@ namespace AtelierXNA
         Caméra CaméraJeu { get; set; }
         
 
-        GraphicsDeviceManager graphics;
-        SpriteBatch spriteBatch;
-
         public Jeu()
         {
-            graphics = new GraphicsDeviceManager(this);
+            PériphériqueGraphique = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
         }
 
@@ -48,6 +45,7 @@ namespace AtelierXNA
             // TODO: Add your initialization logic here
             
             base.Initialize();
+            
         }
 
         /// <summary>
@@ -57,7 +55,7 @@ namespace AtelierXNA
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
-            spriteBatch = new SpriteBatch(GraphicsDevice);
+            GestionSprites = new SpriteBatch(GraphicsDevice);
            
 
             // TODO: use this.Content to load your game content here
