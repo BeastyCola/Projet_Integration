@@ -1,0 +1,8 @@
+C:\Users\201471821\Documents\GitHub\Projet_Integration\Projet_Intégration\Projet_Intégration\Projet_Intégration\obj\x86\Debug\Projet_Intégration.csprojResolveAssemblyReference.cache
+C:\Users\201471821\Documents\GitHub\Projet_Integration\Projet_Intégration\Projet_Intégration\Projet_Intégration\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\201471821\Documents\GitHub\Projet_Integration\Projet_Intégration\Projet_Intégration\Projet_Intégration\bin\x86\Debug\Projet_Intégration.exe
+C:\Users\201471821\Documents\GitHub\Projet_Integration\Projet_Intégration\Projet_Intégration\Projet_Intégration\bin\x86\Debug\Projet_Intégration.pdb
+C:\Users\201471821\Documents\GitHub\Projet_Integration\Projet_Intégration\Projet_Intégration\Projet_Intégration\obj\x86\Debug\Projet_Intégration.exe
+C:\Users\201471821\Documents\GitHub\Projet_Integration\Projet_Intégration\Projet_Intégration\Projet_Intégration\obj\x86\Debug\Projet_Intégration.pdb
+C:\Users\201471821\Documents\GitHub\Projet_Integration\Projet_Intégration\Projet_Intégration\Projet_Intégration\bin\x86\Debug\Content\Textures\chess.xnb
+C:\Users\201471821\Documents\GitHub\Projet_Integration\Projet_Intégration\Projet_Intégration\Projet_Intégration\bin\x86\Debug\Composants de base.dll

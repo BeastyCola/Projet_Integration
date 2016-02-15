@@ -23,8 +23,12 @@ namespace Projet_Intégration
          Vector2 Position { get; set; }
          int Scale { get; set; }
          char Lettre { get; set; }
-
-         public bool LogiqueDéplacement(Vector2 déplacement);
+         Rectangle HitBox { get; set; }
+         
+         public bool LogiqueDéplacement(Vector2 déplacement)
+         {
+             return true;
+         }
 
         public Pieces(Game game)
             : base(game)

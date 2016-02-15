@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace Projet_Intégration
 {
 #if WINDOWS || XBOX
@@ -8,11 +9,12 @@ namespace Projet_Intégration
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        
         static void Main(string[] args)
         {
-            using (Jeu game = new Jeu())
+            using (Jeu jeu = new Jeu())
             {
-                game.Run();
+                jeu.Run();
             }
         }
     }
